@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.contain{
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    background-color:#2d89ef;
+    margin:7vh;
+    padding:6vh;
+}
+input{
+    width:50%;
+    height:6vh;
+    background-color: #f0f4f4;
+    border:1px solid #2d89ef;
+    border-radius:3px;
+}
+button{
+    width:15%;
+    height:6vh;
+    background-color:blue;
+    /*#d5e1df*/
+    color:black;
+    /*font-family: 'Pacifico', cursive;*/
+    text-transform:uppercase;
+    border:1px solid #2d89ef;
+    font-size: larger;
+}
